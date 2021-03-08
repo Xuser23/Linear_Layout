@@ -2,5 +2,5 @@
     <string name="app_name">LinearLayout</string>
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
-    <string name="bSignIn">Sign <In></In></string>
+    <string name="bSignIn">Sign In</string>
 </resources>
