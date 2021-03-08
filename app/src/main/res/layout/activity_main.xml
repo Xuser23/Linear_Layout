@@ -13,7 +13,8 @@
         android:layout_height="100dp"
         android:layout_gravity="center"
         android:layout_marginTop="150dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@tools:sample/avatars"
+        android:contentDescription="@string/todo" />
 
     <EditText
         android:id="@+id/editText"
@@ -49,5 +50,5 @@
         android:paddingRight="30dp"
         android:paddingLeft="30dp"
         android:text="@string/bSignIn"
-        android:textColor="#ffffff"
+        android:textColor="#ffffff"/>
 </LinearLayout>
