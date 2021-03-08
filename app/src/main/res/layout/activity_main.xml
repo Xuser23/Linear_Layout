@@ -13,7 +13,7 @@
         android:layout_height="100dp"
         android:layout_gravity="center"
         android:layout_marginTop="150dp"
-        tools:srcCompat="@tools:sample/avatars"
+        tools:srcCompat="@drawable/logo_umy"
         android:contentDescription="@string/todo" />
 
     <EditText
